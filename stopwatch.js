@@ -16,13 +16,6 @@ const intervalRate = 10 // update the stopwatch every 10 milliseconds
 let intervalId = null
 let rawTime = 0
 let lapcount = 0
-// let lapcount2 = 0
-// let lapcount3 = 0
-// let lapcount4 = 0
-// let lapcount5 = 0
-// let lapcount6 = 0
-// let lapcount7 = 0
-// let lapcount8 = 0
 
 var runningstate = 0; // 1 means the timecounter is running 0 means counter stopped
 
